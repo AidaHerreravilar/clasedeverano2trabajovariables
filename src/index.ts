@@ -1,0 +1,27 @@
+let nombreSupermercado : string = "Aida";
+let cantidad1 : number = 6;
+let cantidad2 : number = 3;
+let cantidad3 : number = 4;
+let cantidad4 : number = 3;
+let cantidad5 : number = 6;
+let cantidad6 : number = 2;
+let precioPorUnidad : number;
+let precioTotal : number;
+let producto1 : string = "fideos sopero maiolo";
+let producto2 : string = "fideos sopero mattarazzo";
+let producto3 : string = "galletitas surtidas diversion";
+let pruducto4 : string = "azucar domino";
+let producto5 : string = "arroz grano largo gallo";
+let producto6 : string = "arvejas arcor";
+let precio1 : number = 60;
+let precio2 : number = 45;
+let precio3 : number = 140;
+let precio4 : number = 65;
+let precio5 : number = 180;
+let precio6 : number = 40;
+
+console.log ("compra a realizar");
+let producto4 : number = 3;
+let precio4 : number = 65;
+let resultado : number = producto4 + precio 65;
+console.log (resultado);
